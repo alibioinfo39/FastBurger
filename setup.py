@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='data-analysis-program',
+    name='FastBurger',
     version='0.1',
     author='Licul Aragones',
     author_email='lic.aragones@gmail.com',
